@@ -1,0 +1,30 @@
+body {
+    background-image: url(/images/ingredients-cabbage-carrot-pie-cabbage-carrots-eggs-flour-milk-butter-spices-white-background.jpg);
+
+}
+
+#title {
+    color: red;
+    text-align: center;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 500%;
+}
+
+.subtitle {
+    color:brown;
+    font-size: 300%;
+    
+}
+
+
+.part {
+    font-size: 200%;
+    color:rgba(165, 42, 42, 0.719);
+   
+    
+}
+
+.content {
+    color: black;
+    font-size: x-large;
+}

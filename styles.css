@@ -1,6 +1,8 @@
 body {
-    background-image:url( /images/2147849739.jpg);
-    background-size:fill;
+    background-image:url( /images/ingredients-cabbage-carrot-pie-cabbage-carrots-eggs-flour-milk-butter-spices-white-background.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
    
 }
 
@@ -22,6 +24,6 @@ body {
 .credits {
     font-size: 100%;
     text-align: center;
-    color: aliceblue;
+    color:black;
 }
 

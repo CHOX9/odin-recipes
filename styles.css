@@ -27,3 +27,22 @@ body {
     color:black;
 }
 
+.subtitle {
+    color:brown;
+    font-size: 300%;
+    
+}
+
+
+.part {
+    font-size: 200%;
+    color:rgba(165, 42, 42, 0.719);
+   
+    
+}
+
+.content {
+    color: black;
+    font-size: x-large;
+}
+
